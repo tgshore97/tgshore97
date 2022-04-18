@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tgshore97
-- 👀 I’m interested in Electronic Engineering, Programming, and Data Science
-- 🌱 I’m currently learning Node.js for developing a web application
-- 💞️ I’m looking to collaborate on AI research
+- 👀 I’m interested in Machine Learning, Electronic Engineering, and all the fields in between
+- 🌱 I’m currently preparing to begin a PhD in EEE/AI at the University of Surrey
 - 📫 Reach me on https://uk.linkedin.com/in/tgshore
 
 <!---
